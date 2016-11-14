@@ -1,0 +1,109 @@
+\documentclass[a4paper,11pt,twoside]{StyleThese}
+
+\input{formatAndDefs}
+
+\begin{document}
+
+\include{TitlePage}
+
+\dominitoc
+
+\pagenumbering{roman}
+
+\cleardoublepage
+
+\tableofcontents
+
+\mainmatter
+
+%\include{Chapters/Intro}
+
+\part{Phenomenology}
+\include{Chapters/pQCD}
+\include{Chapters/pQuarkonia}
+\part{Experimental apparatus}
+\include{Chapters/xLHCMS}
+\include{Chapters/xMuons}
+\part{Analysis}
+\include{Chapters/aYield}
+\include{Chapters/aCorrection}
+\include{Chapters/aUpsilon}
+
+% \include{Chapters/Concl}
+
+\appendix
+
+\include{Chapters/sTatistics}
+% \include{appendix/AppConfigToGraph}
+
+%\bibliographystyle{StyleThese}
+%\printbibheading
+%\printbibliography
+
+%\printnomenclature
+
+% \cleardoublepage
+
+%\chapter*{Remerciements\markboth{Remerciements}{}}
+%\addstarredchapter{\protect\numberline{}Remerciements}
+
+%\myepigraph{}{}
+
+Thanks.
+
+\cleardoublepage
+
+\newpage
+\thispagestyle{empty}
+\strut
+\newpage
+
+\begin{vcenterpage}
+
+\vspace*{-4cm}
+
+% \hspace{-0.2\textwidth}
+% \begin{minipage}{1.3\textwidth}
+%  \includegraphics[width=0.23\textwidth]{Univ_logo.pdf}
+% \hfill{\huge \textbf{Nicolas FILIPOVIC}}\hfill\includegraphics[width=0.26\textwidth]{logo_LLR.pdf}
+% \end{minipage}
+
+\vspace*{1.5cm}
+
+\hspace{-0.2\textwidth}\begin{minipage}{1.3\textwidth}
+\begin{center}
+ \huge \textbf { $\Upsilon$}
+\end{center}
+\end{minipage}
+
+\vspace*{1cm}
+
+\hspace{-0.2\textwidth}\fbox{\begin{minipage}{1.3\textwidth}
+{\large\textbf{Summary}}
+\vspace*{0.5cm}
+{\large\textbf{Keyowrds :}}
+LHC ; Quark-gluon Plasma ; $\Upsilon$ ; muons ; sequential suppression ; nuclear
+matter absorption.
+\end{minipage}}
+\vspace*{1cm}
+
+%\hspace{-0.2\textwidth}\fbox{\begin{minipage}{1.3\textwidth}
+%{\large\textbf{Résumé en français}}
+% {\large\textbf{Keywords:}}
+% Tevatron, Standard model, Higgs boson, $W$ boson, Electrons, Anomalous gauge couplings.
+%\end{minipage}}
+%\vspace*{-4cm}
+\end{vcenterpage}
+
+% \begin{vcenterpage}
+% \noindent\rule[2pt]{\textwidth}{0.5pt}
+% \begin{center}
+% {\boldmath\large\textbf{Search for the Higgs boson and for anomalous quartic gauge boson couplings in the $WW$ channel with dielectron events with
+% the \DO experiment at the Tevatron\\}}
+% \end{center}
+% 
+% \\
+% \noindent\rule[2pt]{\textwidth}{0.5pt}
+% \end{vcenterpage}
+
+\end{document}

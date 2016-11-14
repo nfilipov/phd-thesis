@@ -1,0 +1,130 @@
+\select@language {english}
+\select@language {english}
+\contentsline {starchapter}{\numberline {}R\IeC {\'e}sum\IeC {\'e} en fran\IeC {\c c}ais}{v}{chapter*.2}
+\select@language {french}
+\contentsline {starchapter}{\numberline {}Remerciements -- Acknowledgments}{ix}{chapter*.3}
+\select@language {english}
+\contentsline {part}{I\hspace {1em}Phenomenology}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Aspects of quantum chromodynamics}{3}{chapter.1}
+\select@language {greek}
+\select@language {english}
+\contentsline {section}{\numberline {1.1}Building a theory of strong interactions}{5}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Nuclear isospin}{5}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}The Eightfold way, strangeness, and SU(3) flavour symmetry}{5}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}The need for colour}{7}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Evidence for quarks}{8}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}On the verge of a revolution}{10}{subsection.1.1.5}
+\contentsline {section}{\numberline {1.2}QCD: Theoretical grounds, experimental milestones}{12}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}The QCD Lagrangian}{12}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}The running of the coupling constant $\alpha _{S}$}{13}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}The November Revolution}{15}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}The discovery of the gluon}{18}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Testing QCD at $e^{+}e^{-}$, DIS and hadron colliders}{19}{subsection.1.2.5}
+\contentsline {subsubsection}{\numberline {1.2.5.1}The non-Abelian nature of QCD}{19}{subsubsection.1.2.5.1}
+\contentsline {subsubsection}{\numberline {1.2.5.2}Precision measurements of QCD effects}{21}{subsubsection.1.2.5.2}
+\contentsline {subsubsection}{\numberline {1.2.5.3}Modern running coupling constant measurements}{23}{subsubsection.1.2.5.3}
+\contentsline {section}{\numberline {1.3}From confinement to deconfinement}{26}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Phase transition at finite temperature}{26}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Measuring the properties of the quark-gluon plasma}{28}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Sequential melting}{32}{subsection.1.3.3}
+\contentsline {xpart}{Phenomenology}{3}{part.1}
+\contentsline {chapter}{\numberline {2}Aspects of quarkonium physics}{35}{chapter.2}
+\contentsline {section}{\numberline {2.1}Quarkonium production in vacuum}{35}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Introductory remarks: the OZI rule}{36}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Production mechanisms: the hard part}{37}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Quarkonium spectroscopy}{39}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Charmonia in nuclear matter}{42}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}At the SPS}{42}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}At RHIC}{43}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}At the LHC}{46}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}The bottomonium case}{49}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}\ensuremath {\Upsilon } production in pp collisions}{49}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}\ensuremath {\Upsilon } suppression in heavy-ion collisions}{56}{subsection.2.3.2}
+\contentsline {part}{II\hspace {1em}Experimental apparatus}{59}{part.2}
+\contentsline {chapter}{\numberline {3}The CMS experiment at the LHC}{61}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Large Hadron Collider}{61}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Acceleration devices}{62}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}LHC setups and energies}{63}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}The LHC experiments}{63}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}CMS}{65}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}General concepts}{65}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Trackers}{66}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Electromagnetic calorimetry}{68}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Hadronic calorimetry}{70}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Muon chambers}{72}{subsection.3.2.5}
+\contentsline {xpart}{Experimental apparatus}{61}{part.2}
+\contentsline {chapter}{\numberline {4}Muon triggering and reconstruction}{79}{chapter.4}
+\contentsline {section}{\numberline {4.1}Triggers}{80}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}The Level 1 Trigger}{80}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}The High Level Trigger}{83}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Settings for the 2011 PbPb run}{84}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Monitoring of the 2013 $pp$ run}{87}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Muons}{92}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Muon reconstruction}{92}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Standalone muons}{93}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Global muons}{93}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Tracker muons}{94}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Tracking in heavy ion collisions}{96}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Muon selection}{97}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}Event selection and centrality}{99}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}$pp$ luminosity}{99}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Minimum bias event selection in PbPb collisions}{99}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Centrality}{101}{subsection.4.3.3}
+\contentsline {part}{III\hspace {1em}Analysis}{105}{part.3}
+\contentsline {chapter}{\numberline {5}Signal optimisation and extraction}{107}{chapter.5}
+\contentsline {section}{\numberline {5.1}Preamble}{107}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Analysis strategy}{107}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}First observations motivating newer measurements}{108}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}First look at PbPb data}{109}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Statistical optimisation}{111}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Simulation based studies}{112}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Asymmetric single-muon transverse momentum cuts}{115}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Signal extraction}{119}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Fits to the invariant mass spectrum}{119}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Signal lineshape study}{121}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Extraction of raw \ensuremath {\Upsilon } yields}{122}{subsection.5.3.3}
+\contentsline {subsubsection}{\numberline {5.3.3.1}Transverse momentum bins}{123}{subsubsection.5.3.3.1}
+\contentsline {subsubsection}{\numberline {5.3.3.2}Rapidity binning}{123}{subsubsection.5.3.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3.3}Centrality dependence}{124}{subsubsection.5.3.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Systematic uncertainties from signal extraction}{124}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}Tabulated results}{126}{subsection.5.3.5}
+\contentsline {xpart}{Analysis}{107}{part.3}
+\contentsline {chapter}{\numberline {6}Corrections to the raw yield}{135}{chapter.6}
+\contentsline {section}{\numberline {6.1}Monte Carlo based corrections}{135}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Introduction}{135}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Acceptance}{137}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Efficiency}{141}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Systematic uncertainties}{144}{subsection.6.1.4}
+\contentsline {section}{\numberline {6.2}Data-driven corrections and comparison to simulation}{149}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Data-MC comparisons of muon kinematics}{149}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Data-MC comparisons of muon quality}{150}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}The Tag and Probe method}{152}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Single muon efficiencies}{153}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Correction to the dimuon efficiency}{156}{subsection.6.2.5}
+\contentsline {subsection}{\numberline {6.2.6}Systematic uncertainties}{158}{subsection.6.2.6}
+\contentsline {section}{\numberline {6.3}Summary}{160}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Summary of \ensuremath {\Upsilon }(nS) corrections}{160}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Tabulated results}{161}{subsection.6.3.2}
+\contentsline {chapter}{\numberline {7}Results on \ensuremath {\Upsilon } production and suppression}{165}{chapter.7}
+\contentsline {section}{\numberline {7.1}Measurement of the $pp$ cross section}{166}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Corrected yields}{166}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Differential cross sections}{167}{subsection.7.1.2}
+\contentsline {section}{\numberline {7.2}\ensuremath {\Upsilon } suppression in heavy ion collisions}{172}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Normalised cross sections}{172}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Nuclear modification factor}{173}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Systematic uncertainties on \ensuremath {R_{\rm AA}}}{175}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Upper limits on \ensuremath {\Upsilon \mathrm {(3S)}} production in PbPb collisions}{178}{subsection.7.2.4}
+\contentsline {section}{\numberline {7.3}Discussions}{181}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Experimental comparisons}{181}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Comparisons with suppression models in PbPb}{185}{subsection.7.3.2}
+\contentsline {chapter}{\numberline {A}Additional figures}{191}{appendix.A}
+\contentsline {section}{\numberline {A.1}Fits to dimuon invariant mass spectra}{191}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}\ensuremath {p_{T}}\xspace dependent analysis of $pp$ and PbPb yields}{191}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Rapidity dependent analysis of $pp$ and PbPb yields}{195}{subsection.A.1.2}
+\contentsline {subsection}{\numberline {A.1.3}$pp$ cross section measurements for excited states}{202}{subsection.A.1.3}
+\contentsline {subsection}{\numberline {A.1.4}Centrality dependent analysis of PbPb yields}{206}{subsection.A.1.4}
+\contentsline {subsection}{\numberline {A.1.5}Systematic uncertainty on fitting}{206}{subsection.A.1.5}
+\contentsline {section}{\numberline {A.2}More figures from the MC lineshape study}{213}{section.A.2}
+\contentsline {section}{\numberline {A.3}Tabulated results of the lineshape study}{213}{section.A.3}
+\contentsline {chapter}{\numberline {B}Centrality table}{219}{appendix.B}
+\contentsline {chapter}{Bibliography}{221}{appendix*.196}
